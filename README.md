@@ -1,3 +1,3 @@
 # First_demo
 This is my first repository
-Author - Prerna Fegade
+Author - Rashi Fegade
